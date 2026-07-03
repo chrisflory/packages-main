@@ -1,0 +1,4 @@
+type = plugin
+repository = https://github.com/chrisflory/pkg-winfish
+description = WSL path translation, Cursor, and Windows Explorer helpers for Fish
+maintainer = Chris Flory
